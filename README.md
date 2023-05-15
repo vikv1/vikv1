@@ -1,7 +1,22 @@
-### Hi there 👋
+
+<img align="right" width="450" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
+
+### ✿ welcome ✿
+---  
+* cami!
+* University of Washington, Bothell
+* Computer Science and Software Engineering major  
+* Programming everyday  
+
+
+
+
+
+---
 
 <!--
-**vikv1/vikv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/clacy360/clacy360/blob/main/snrlx.gif)
+**clacy360/clacy360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
