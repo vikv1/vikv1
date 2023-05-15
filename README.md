@@ -1,12 +1,12 @@
 
-<img align="right" width="450" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
+<img align="right" width="4500" height="2500" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
-### ✿ welcome ✿
+###  welcome 
 ---  
-* cami!
-* University of Washington, Bothell
+* virkat
+* University of Washington
 * Computer Science and Software Engineering major  
-* Programming everyday  
+* Programming=
 
 
 
