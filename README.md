@@ -1,7 +1,11 @@
 
+
 <img align="right" width="1000" height="500" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
-###  welcome 
+
+
+
+###  Welcome!
 ---  
 * Vikrant Verma
 * University of Washington
