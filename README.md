@@ -1,5 +1,5 @@
 
-<img align="right" width="100" height="2500" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
+<img align="right" width="1000" height="500" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
 ###  welcome 
 ---  
