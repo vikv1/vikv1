@@ -1,14 +1,9 @@
+<img align="right" width="450" height="250" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
 
-
-<img align="right" width="1000" height="500" src="https://github.com/clacy360/clacy360/blob/main/snrlx.gif">
-
-
-
-
-###  Welcome!
+###  welcome 
 ---  
-* Vikrant Verma
-* University of Washington
+* vikrant!
+* University of Washington, Bothell
 * Computer Science and Software Engineering major  
 
 
