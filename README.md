@@ -3,8 +3,8 @@
 ###  welcome 
 ---  
 * vikrant!
-* University of Washington, Bothell
-* Computer Science and Software Engineering major  
+* University of Washington
+* Computer Science 
 
 
 
